@@ -8,4 +8,5 @@ print("nimadur")
 print("salom dunyo")
 
 x = 5
+print("asdfasfdasdf")
 print(x)
