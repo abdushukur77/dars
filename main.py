@@ -6,3 +6,6 @@ def minus(a: int, b: int) -> int:
 
 print("nimadur")
 print("salom dunyo")
+
+x = 5
+print(x)
